@@ -166,19 +166,29 @@ After loading the project in Unity:
 
 # 📸 Screenshots
 
-```markdown
-![Gameplay](screenshots/Screenshot%202026-05-14%20103921.png)
+<p align="center">
+  <img src="screenshots/Screenshot1.png"/>
+</p>
 
-![Gameplay](screenshots/Screenshot 2026-05-14 104010.png)
+<p align="center">
+  <img src="screenshots/Screenshot6.png"/>
+</p>
 
-![Gameplay](screenshots/Screenshot 2026-05-14 104045.png)
+<p align="center">
+  <img src="screenshots/Screenshot2.png"/>
+</p>
 
-![Gameplay](screenshots/Screenshot 2026-05-14 104127.png)
+<p align="center">
+  <img src="screenshots/Screenshot3.png"/>
+</p>
 
-![Gameplay](screenshots/Screenshot 2026-05-14 104239.png)
+<p align="center">
+  <img src="screenshots/Screenshot4.png"/>
+</p>
 
-![Gameplay](screenshots/Screenshot 2026-05-14 104534.png)
-```
+<p align="center">
+  <img src="screenshots/Screenshot5.png"/>
+</p>
 
 ---
 
