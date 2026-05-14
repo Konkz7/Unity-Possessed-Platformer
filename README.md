@@ -166,12 +166,18 @@ After loading the project in Unity:
 
 # 📸 Screenshots
 
-_Add screenshots here._
-
-Example:
-
 ```markdown
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/Screenshot%202026-05-14%20103921.png)
+
+![Gameplay](screenshots/Screenshot 2026-05-14 104010.png)
+
+![Gameplay](screenshots/Screenshot 2026-05-14 104045.png)
+
+![Gameplay](screenshots/Screenshot 2026-05-14 104127.png)
+
+![Gameplay](screenshots/Screenshot 2026-05-14 104239.png)
+
+![Gameplay](screenshots/Screenshot 2026-05-14 104534.png)
 ```
 
 ---
