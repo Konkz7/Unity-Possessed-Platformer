@@ -13,6 +13,7 @@ The game combines:
 - Environmental hazards
 - Boss fight gameplay
 - Cosmetic progression
+- Even some hand-drawn visuals
 
 ---
 
@@ -163,12 +164,14 @@ After loading the project in Unity:
 
 ---
 
-# 🎥 Gameplay Video
+# 📸 Screenshots
+
+_Add screenshots here._
 
 Example:
 
 ```markdown
-[Watch Gameplay Video](screenshots/game-trailer(1) (1).mp4)
+![Gameplay](screenshots/gameplay.png)
 ```
 
 ---
